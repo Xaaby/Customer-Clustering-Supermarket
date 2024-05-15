@@ -24,4 +24,3 @@ The project follows these key steps:
 - Identified key customer segments with unique purchasing patterns.
 - Provided recommendations for targeted marketing strategies and inventory management based on the insights derived from the clusters.
 
-## Repository Structure
